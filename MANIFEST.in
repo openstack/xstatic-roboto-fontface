@@ -1,6 +1,5 @@
 include README.txt
-recursive-include xstatic/pkg/roboto_fontface *
-
+recursive-include xstatic *
 global-exclude *.pyc
 global-exclude *.pyo
 global-exclude *.orig
